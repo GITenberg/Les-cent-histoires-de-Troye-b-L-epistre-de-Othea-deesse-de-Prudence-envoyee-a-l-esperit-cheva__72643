@@ -1,5 +1,8 @@
 _repo: Les-cent-histoires-de-Troye-b-L-epistre-de-Othea-deesse-de-Prudence-envoyee-a-l-esperit-cheva__72643
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72643-h/images/cover.jpg
 creator:
   author:
     agent_name: Christine, de Pisan
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Christine_de_Pizan
     - https://fr.wikipedia.org/wiki/Christine_de_Pizan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72643#Les-cent-histoires-de-Troye-b-L-epistre-de-Othea-deesse-de-Prudence-envoyee-a-l-esperit-cheva_
 gutenberg_issued: '2024-01-06'
 gutenberg_type: Text
 identifiers:
